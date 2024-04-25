@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Elisha Mose
-- 👀 I’m interested in software development and cyber security
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software development, web development and cyber security
+- 🌱 I’m currently learning Python in PLP Africa
 - 💞️ I’m looking to collaborate with all of you in the above fields
-- 📫 How to reach me in X usename ElishaMoseblue
+- 📫 How to reach me in X/twitter username ElishaMoseblue
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Practice make perfect!
+- ⚡ Fun fact: Practice makes perfect!
 
 <!---
 chelmose/chelmose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
