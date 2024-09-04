@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Elisha Mose
-- 👀 I’m interested in software development, web development and cyber security
-- 🌱 I’m currently learning Python in PLP Africa
+- 👀 I’m interested in software development, web development, and cyber security
+- 🌱 I’m currently learning dart with flutter
 - 💞️ I’m looking to collaborate with all of you in the above fields
-- 📫 How to reach me in X/twitter username ElishaMoseblue
+- 📫 How to reach me in X/twitter username @ElishaMoseblue  elishamose633@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Practice makes perfect!
 
